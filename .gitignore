@@ -73,3 +73,9 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# Ignore the following directories for IDEs
+.idea/
+
+# Ignore Visual Studio Code workspace settings
+*.slnx
